@@ -12,3 +12,5 @@ The PR Cost Ledger collector batch for this repo must stay metadata-only:
 - model and tool metadata
 
 Do not include prompts, completions, source code, diffs, patches, transcripts, message bodies, or terminal output.
+
+For the alpha run, use the merged PR number and merge commit SHA from GitHub after this branch is merged.
